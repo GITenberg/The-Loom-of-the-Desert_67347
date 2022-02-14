@@ -1,0 +1,37 @@
+_repo: The-Loom-of-the-Desert_67347
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Dixon, Maynard
+    aliases:
+    - Dixon, Lafayette Maynard
+    - Dixon, L. Maynard
+    birthdate: 1875
+    deathdate: 1946
+    gutenberg_agent_id: '34054'
+    url: http://www.gutenberg.org/2009/agents/34054
+creator:
+  author:
+    agent_name: Strobridge, Idah Meacham
+    gutenberg_agent_id: '54219'
+    url: http://www.gutenberg.org/2009/agents/54219
+description: ''
+gutenberg_issued: '2022-02-06'
+identifiers:
+  gutenberg: '67347'
+language: en
+pgterms:marc904: https://archive.org/details/loomofdesert00strorich/page/n19/mode/2up
+pgterms:marc905: 20200623145440strobridge
+pgterms:marc906: '1907'
+pgterms:marc907: US
+production_note: Carlos Colon, David E. Brown, the University of California and the
+  Online Distributed Proofreading Team at https://www.pgdp.net (This file was produced
+  from images generously made available by The Internet Archive/American Libraries.)
+publication_note: United States :Baumgardt Publishing Company,1907.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: The Loom of the Desert
+url: http://www.gutenberg.org/ebooks/67347
