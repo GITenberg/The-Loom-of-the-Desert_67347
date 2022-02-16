@@ -10,12 +10,17 @@ contributor:
     deathdate: 1946
     gutenberg_agent_id: '34054'
     url: http://www.gutenberg.org/2009/agents/34054
+covers:
+- cover_type: archival
+  image_path: 67347-h/images/cover.jpg
 creator:
   author:
     agent_name: Strobridge, Idah Meacham
     gutenberg_agent_id: '54219'
     url: http://www.gutenberg.org/2009/agents/54219
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/67347#The-Loom-of-the-Desert
 gutenberg_issued: '2022-02-06'
 identifiers:
   gutenberg: '67347'
